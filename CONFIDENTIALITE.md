@@ -38,4 +38,4 @@ personne : c'est l'utilisateur qui choisit de le partager.
 
 ## Contact
 
-Pour toute question : maxime.mortier@outlook.com.
+Pour toute question : declic.support@gmail.com
